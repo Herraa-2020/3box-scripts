@@ -1,0 +1,9 @@
+lua load autocor;
+wait .1;
+cor on;
+wait .1;
+cor aoe 3;
+wait .1;
+cor aoe 4;
+wait .1;
+cor aoe 5;

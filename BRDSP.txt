@@ -1,0 +1,1 @@
+input /ja "soul voice" <me>; wait 2; send Hadees input /ja "clarion call" <me>; wait 2; send Hadees input /ja "nightingale" <me>; wait 2; input /ja "troubadour" <me>; wait 1; input /ja "marcato" <me>; wait 2; input /ma "victory march" <me>; wait 5; input /ma "advancing march" <me>; wait 5; input /ma "valor minuet V" <me>; wait 5; input /ma "valor minuet iv" <me>

@@ -1,0 +1,4 @@
+send @all /echo base buffs for BRD and COR
+send hadees exec BRDbase;
+wait .1;
+send zeuuss exec CORbase;
