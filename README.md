@@ -1,5 +1,5 @@
-# 3box-scripts
-Scripts for 3boxing
+# 6box-scripts
+Scripts for 6-boxing
 
 For these scripts to work you need to make sure you have the following addons for FFXI
 
